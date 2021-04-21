@@ -1,0 +1,22 @@
+.main-container {
+  display: flex;
+  margin: 8% auto;
+  width: 50%;
+  height: 600px;
+  justify-content: space-around;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  background-color: #f2f2f2;
+}
+
+.user-list_wrapper {
+  background-color: #f6f9ff;
+  width: 50%;
+  padding: 5%;
+  
+}
+
+.user-editor_wrapper {
+  width: 50%;
+  padding: 5%;
+  margin: auto;
+}
